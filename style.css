@@ -8,10 +8,16 @@
     height: 860px;
     justify-content: center;
     flex-wrap: wrap;
+}   
 
 .square {
     background-color: white;
     border: solid 1px black;
     margin: 0;
     padding: 0;
+}
+
+.button {
+    margin: 20px;
+    padding: 10px 20px;
 }
